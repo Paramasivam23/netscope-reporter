@@ -4,7 +4,7 @@
 
 **Author:** paramasivam m
 
-**GitHub Repository:** https://github.com/Paramasivam23/NetScope-Tamil-Vanan-J
+**GitHub Repository:** https://github.com/Paramasivam23/netscope-reporter
 
 ---
 
@@ -185,7 +185,7 @@ The `requirements.txt` file contains the Python dependencies required by the app
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Paramasivam23/NetScope-Tamil-Vanan-J.git
+git clone https://github.com/Paramasivam23/netscope-reporter
 ```
 
 ### 2. Enter the Project Folder
@@ -365,7 +365,7 @@ The implemented application supports network scanning, result presentation, and 
 
 **NetScope — Local Network Service Reporter**
 
-https://github.com/Paramasivam23/NetScope-Tamil-Vanan-J
+https://github.com/Paramasivam23/netscope-reporter
 
 ---
 
